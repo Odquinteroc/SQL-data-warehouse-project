@@ -1,4 +1,3 @@
-# SQL-data-warehouse-project
 flowchart TD
   %% Layout
   classDef header fill:#ffffff,stroke:#888,stroke-width:1px,color:#222,font-weight:bold
